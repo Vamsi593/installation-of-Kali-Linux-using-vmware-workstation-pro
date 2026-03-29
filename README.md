@@ -6,7 +6,7 @@ This repository contains my **Internship Task 1**, where I have demonstrated the
 To install Kali Linux in a virtual environment and understand basic setup for cybersecurity practices.
 
 ## 🎥 Demo Video
-👉 [Click here to watch the video](#)  
+👉 [https://www.mediafire.com/file/dhmoloj2fwax6u8/internship+video.mp4/file](#)  
 (*Upload your video and paste the link here*)
 
 ## 🛠 Tools Used
